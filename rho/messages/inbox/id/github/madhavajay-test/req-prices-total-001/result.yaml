@@ -1,0 +1,23 @@
+version: 1
+kind: rho_recipient_envelope
+crypto:
+  algorithm: x25519-hkdf-sha256
+  content_encryption: chacha20poly1305
+  created_at: 2026-06-16T05:24:15Z
+  context:
+    repo_id: rho://repo/github/madhavajay/rho-live-clean-test-20260616-codex1
+    path: rho/messages/inbox/id/github/madhavajay-test/req-prices-total-001/result.yaml
+    purpose: rho.git_filter
+recipients:
+- identity_id: rho://id/github/madhavajay-test
+  key_id: rho://key/github/madhavajay-test/x25519-1
+  algorithm: x25519
+  ephemeral_public_key: vQk1Ccs3fwSSHkkOoqVncDNFdAUYtxxu86wIngwZFBI=
+  nonce_base64: XjmTcypSnxj7WacK
+  ciphertext_base64: KE5KMT9Fl/9Y2pXue3biSM71IV4ybomw7CgTthS+sUWbwmgu8HReXgi6tnhGU13rTifHsIZdomnUOVXnUk6TEuK96nsxIXrCBbclm9tf9EPU/tHa2Xw9jasutODhg36HVnvVYie5iYXH3hrMDIgWilEnzDMEKVuL97xtsxnLAeODPnbXxCL5QM7vq4s5TPEj7I5Tqy9rbdlrUNhSK0CtgDid44YC57So9ZSwgAzkmPOzJpAEOuJ3j7bFl924vuEqv02Nlm1QSUxZ3Xhtb3CZQQfFnm3APvUR4iIYZtQU2maIZvEoHoHu+qZ3abU/ganttN31BpL1d4ds3XW4p4aG6xw8qrb5b7B8JeQEjYyVTZSwa58NFPk2lKnnTA4VdGoVLl+DKuttVAYBStDo/lTuh8zigDCgTDI9KfsOSvdOauUHlPCGUUMxSoP7JcT2CHMBQR7KlRJamtduT7pthOVqAnvkC5V+oVvKXF517kK5oyYLfLc3yjpOR74CgGnWk1v7CEbyqRikivq6LuLM4QYhpZ38trsfNKr9FbkifiCAQn52Pn2EQ2ES86WN7IokUixal9ExefFcXlKYU85tJv2WlFg+Wi5CGazGYNB3xRVtxBWJJNxf80Rh2alvaQDfcJ/svdCW3D3yHLWkxXAxJkcfSmSV9RFvM8BJ9ys6wkR9ByuFBg==
+- identity_id: rho://id/github/madhavajay
+  key_id: rho://key/github/madhavajay/x25519-1
+  algorithm: x25519
+  ephemeral_public_key: ZLgPeuiow/lpUAT492cSmAoGtRBSesH6ayooRWEqgDw=
+  nonce_base64: kzFlvyCU3blmAhg9
+  ciphertext_base64: jDgryCOjHnqS5kTsy32x04vpURBlXl5zq/vH+lqAFyMO8eVx/SMyiCIbZdZRpk41taPZLt9/1wDLZJMk/gnf2LI6/x97vhavBOwpalVNdNBd9pLc4B6QV3Lma5j0r0ictnrT6r2fotwshwn7N733hBx4UWcgYoqxgaCsy12fS3JIAxWDUc5WqBtmXc+GwCtxDx0PTBG5xKVwtbUciW8MQoHE53l5xQFkYiapp6OLRtjiRM7El/McCPcg64/9+JApm2JQ8hyzAMN7ACO1Q4fduwB0dhUeqEZep5/ni9O21Vd4samSPx/Oxld+8Z9+DGA4sRnbXr4wGAoUorzJ+R3c+wF7xP1rNSqlOaoEkg6hseLNiAE3eC5huclDPOoe4hZL6Epg/yt4qFAErFWBgGwf1l0nyjiYeBtW0khwG7Xi7x8rmTuLcthfwG8ceUlcTtAPsaWdZMXlIw7+PrX5w42asOlQFDPawCyHWQN45gcPD1Z0OOKjQNkTBz96ziRdjFmmiUQzqHunzC6dAU60RmYRXs8KxSsJ1ANy0heinRfUR4ak6Pdm2BCCIIrhZlMwwq3mF4YcNYB7gtben4tQQKVLYeVgAyvliSHiUuJM71c6XpOrvwBe/YZq8lx6upSAWVPIDlNomUrlybP/0Hnr3JjC7aFpAhK7VieGMeMTCawxvws1RA==
