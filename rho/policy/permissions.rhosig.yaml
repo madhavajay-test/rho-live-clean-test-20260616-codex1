@@ -1,7 +1,7 @@
 version: 1
 signature:
   signed_path: /Users/madhavajay/rho/madhavajay/projects/rho-live-clean-test-20260616-codex1/rho/policy/permissions.yaml
-  signed_sha256: b8f953cb80b92f13b19e98bcb435bc46db93808a8d29014b2dc21731182ecbff
+  signed_sha256: 448a48cc8cd24ce32537a86d2432e1d2ae392c44c369ab18ed016ded2b4723a1
   signer: rho://id/github/madhavajay
   key_id: rho://key/github/madhavajay/ssh-ed25519-1
   algorithm: ssh-ed25519
@@ -10,7 +10,7 @@ signature:
     -----BEGIN SSH SIGNATURE-----
     U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg8YgzlojPThgVlNS841EUATNtCL
     0eMhc9IQa3gOyVlUAAAAADcmhvAAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5
-    AAAAQHPT1qNsv0lrjSzOFYOMwGgaG6h8CtErodThrMif7rLLXu641lPwneg/G+po9v4Boe
-    lHMA1doTM/hFXqgtKLEwA=
+    AAAAQJRKMPeYsGzhXhE4DxyYcnfDzHCEQcJNHlEKdQEUAU2IR/CR1Efje7+zKJlb4yon5F
+    w9dQ/uJ014Z4RKV7WdiAM=
     -----END SSH SIGNATURE-----
-  created_at: 2026-06-16T04:06:56Z
+  created_at: 2026-06-16T04:33:13Z

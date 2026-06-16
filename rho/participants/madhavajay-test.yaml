@@ -22,5 +22,5 @@ identity:
     provider_url: https://github.com/madhavajay-test
     claim: rho.claim/id/github/madhavajay-test/key/ssh-ed25519/sha256-1rzOFUUYhDHSLZ-MhoeMP0S8EF03T3qUF6evv3QhCf8
     proof_url: https://github.com/madhavajay-test#rho.claim/id/github/madhavajay-test/key/ssh-ed25519/sha256-1rzOFUUYhDHSLZ-MhoeMP0S8EF03T3qUF6evv3QhCf8
-    verified_at: 2026-06-16T04:17:13Z
+    verified_at: 2026-06-16T04:33:12Z
   created_at: 2026-06-15T04:42:07Z
