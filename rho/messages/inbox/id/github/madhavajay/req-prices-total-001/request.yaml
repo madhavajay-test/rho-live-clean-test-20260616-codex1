@@ -1,0 +1,17 @@
+version: 1
+kind: rho_recipient_envelope
+crypto:
+  algorithm: x25519-hkdf-sha256
+  content_encryption: chacha20poly1305
+  created_at: 2026-06-16T05:14:31Z
+  context:
+    repo_id: rho://repo/github/madhavajay/rho-live-clean-test-20260616-codex1
+    path: rho/messages/inbox/id/github/madhavajay/req-prices-total-001/request.yaml
+    purpose: rho.git_filter
+recipients:
+- identity_id: rho://id/github/madhavajay
+  key_id: rho://key/github/madhavajay/x25519-1
+  algorithm: x25519
+  ephemeral_public_key: 5JdplDKEPA2At+LCEZT3j7LPnDg5SY0HQuVmeFH/mU4=
+  nonce_base64: jXRSyuCCjFLdaFRm
+  ciphertext_base64: roQzt4uTuSsOviCI+DGHiNiPQyfouGUXXrgn9mU5rq96mUkpUQOQhWzd3xV1vvf5Xra4iFi5DBiAaKhBA8VtcpfsIytVl+mebjlzEo+WEB0PhbUcbafrAPl4jKrA3I1z+P7tGCXM2+6KTkkSdcDJufkBFn/K6y0h2/b6N5puSInxJAG/mvRYQ30+ZKIClHEFuevg/4SPhBTgcZOtCQUSW9GK4RmRHAyXOsQz9k7j+ERBbkd65l5Wsz3r/3thv/torpSioG1kZfCCPR7xaIhbQPRabX+fSt4MJk9GNKH8AxNZ2K7pEOLEkfs+cvczoTP9qlFNd7Dd7g1/0YNxxhNKJ2R9Wn1MbOwyu3WvA1XwOOCXb7GlMW4BOkozOCDHHQe3zmzNc2tGEmtXPTThAheQ2VMXOQ7nG6R3rNfkq25hSU8FmbqfiMU4H7EiqgDooZ6/pch9xVfkippHaSewHDPJVAQ+U2PyncGPOcX+EMt2S0GXCQyMQWe88BvKS5ZbQU6Rf64sxLKR7MpNksXCXLBNOdVQLiYUihfDP4tUAE0pDMJcG+i+/CjZRaqPMr+zhLe9PvGdWINqJkzROgBFazM=

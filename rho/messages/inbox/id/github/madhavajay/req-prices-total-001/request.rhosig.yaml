@@ -1,0 +1,17 @@
+version: 1
+kind: rho_recipient_envelope
+crypto:
+  algorithm: x25519-hkdf-sha256
+  content_encryption: chacha20poly1305
+  created_at: 2026-06-16T05:14:31Z
+  context:
+    repo_id: rho://repo/github/madhavajay/rho-live-clean-test-20260616-codex1
+    path: rho/messages/inbox/id/github/madhavajay/req-prices-total-001/request.rhosig.yaml
+    purpose: rho.git_filter
+recipients:
+- identity_id: rho://id/github/madhavajay
+  key_id: rho://key/github/madhavajay/x25519-1
+  algorithm: x25519
+  ephemeral_public_key: MxrXVa0yV+HUv9PzloyKlz7HGNxwgQF21QMyVNr7l10=
+  nonce_base64: bEfPF13BiKUSRC5l
+  ciphertext_base64: 7d2qexZNkL1uMjPG7K87OA71corfnRSkbDNB6BedVFDK5YuctQqboZTUWuwost+3DVQAlred7lJOuLR3TrN8evpWowqKrEbXcxSNdrnK5I4SmfO745M4x1pUmF/+dkF5vVx38GRKtRVL7r8oZ8CyaFrua4e/feWFl4KoRSZCsvVaH6f2xYCwLmSZc75RqQ9f4LXC1c6d1+Je9Z022fVla4ecNcOvxp9JGhrEgpFiuoBYKFrUt0hS4zAnBqSIOnLXjQPujHJ/NgY6gh1f+DxFrLOt6ZXH/95d/mzOL8cu5YuhYao0jUQMgrHC2oShxlD+EdBa3b1Gc1PYsvRHBhsEqtm9zb70CWGuaCIrQyxLKQZKQnzsGQ2wMb4+SaLDfiSkhRjR/JY3bKtRoc6Igwk9bTdJ9u+gHuwuEVIhrdvRd4pKPdESLYZ8R+76n8j7wKAmD9TmVj02PFiJML+DOU996x6dU5LqYgpwVOoD/TEbCDRppiJtmx/0gMkTTTQjHFhMgNqWtNLvuq+7UWPvv4MiYVeLgssr2q+GnBYEoOrX61mBULPpfTL6BCNZQCu5drkdzcpHKyAd5JWvPde3yWHdJ2VXYQqRqIdL8sCSKfjhQLZUPNnhmefH9caTTVf6ucpGo4+yCxOeMcXQoOHbFmK+wCwqVllKHRQlK8hHD39yE7PDRevQDkgT+gSlvHjW7OagnphVln3sS3j+qisysBSSrdPs9RQv3lTljC3kzEaoHrMY9o/sVsoKWQRC6hmJAt7EAhqDeth/yz7lt4jGOsJoaLACg8PL6819HDF3msrKQrVBX5ikg/qp1kTpLNJ7vd4f1TQsn9XmNB6V3HH37oby9G0m9itu5jD3zsQ3zIFKPRveSXJLgGw/Yc80HXs3vr5z7yHiPvGNka5/bDdGG/h4nDRwm5Ubbd4bdwAmq+ZS0Dwm2QltBjnfFwBHs4HTdEaJnEMuwdfzc4ta+m374foq8u3heXMaATldav2KlH60bT1UmVqEz9RoJ1Mo4hRwQYTWRobj/it2OXhX9REOv1z+P5BdxI3kxbTP67SQVxAzJq0noQpwrB8VxaWYSq/t55jPICftX2FwyMLpq750T8vfFkpmiyoCI8PokeIwNniPJV+rSzdKefSyk6vTZ+v5DlpIN1wAkX5Ma0RFNDfPrz4xnsX+S+gZvHJocNtjTsZ6hCVIVkSZhNPN17RolP7DnxXYQ0EylIapnaOpOhTO9Dx/g/DiAoNNnv/Iky4nsTzFGJv827SuOxKC6eDN3EHHNYcs4sDk3CjwBGjpOIK8Dr+O/+GuFRE8Sxn1+4ztpYUr/pbZto264w==
