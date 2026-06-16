@@ -1,0 +1,25 @@
+version: 1
+approval_grant:
+  action_id: act-run-real-prices-total-001
+  request_id: req-prices-total-001
+  tool_id: run_real
+  action_type: run_real_data
+  decision: approved
+  granted_by: rho://id/github/madhavajay
+  created_at: 2026-06-16T05:21:48Z
+  action:
+    path: .rho/control/outbox/act-run-real-prices-total-001.json
+    sha256: b39a0aa0cf9ee62927d17e740d9b2d03a2b2e5b2145f2b5f39ad860cf3f29664
+  local_grant:
+    path: .rho/action-grants/act-run-real-prices-total-001.yaml
+    sha256: 1877732e9f7be57f9fda78cdd95427d1321a7f5e55b87f7e35d4d2628fa0d20e
+  repo:
+    git_commit: b6a7e0a3040c71004bc2d628bf89d8fd744f2138
+  code:
+    kind: code
+    path: workspace/sum_prices.py
+    sha256: bd059e8dae9f66dff80731c9a9673f46b5399a0aa82004e3b59c1297af209055
+  private_input:
+    dataset_uuid: 0f1e2d3c-4b5a-4678-9abc-202606160001
+    tier: real
+    sha256: 9aa98103d71f09e6784b4ed4ad77dfe47c304ae6b117c4afa8c71f88c8a78756
