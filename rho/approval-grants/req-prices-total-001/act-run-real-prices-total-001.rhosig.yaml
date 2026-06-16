@@ -1,0 +1,21 @@
+version: 1
+signature:
+  signed_path: /Users/madhavajay/rho/madhavajay/projects/rho-live-clean-test-20260616-codex1/rho/approval-grants/req-prices-total-001/act-run-real-prices-total-001.yaml
+  signed_sha256: 9e793070bfbb93537efc470cfd0b08a2719d71d2c5315715c7fc54838a476869
+  signer: rho://id/github/madhavajay
+  key_id: rho://key/github/madhavajay/ssh-ed25519-1
+  algorithm: ssh-ed25519
+  namespace: rho
+  context:
+    repo_id: rho://repo/github/madhavajay/rho-live-clean-test-20260616-codex1
+    request_id: req-prices-total-001
+    recipient_id: rho://id/github/madhavajay-test
+    purpose: rho.approval_grant
+  signature: |
+    -----BEGIN SSH SIGNATURE-----
+    U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg8YgzlojPThgVlNS841EUATNtCL
+    0eMhc9IQa3gOyVlUAAAAADcmhvAAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5
+    AAAAQEbiYYkP47cFom1XLwUmUXlFe27ghu1hyBHBltKBpsm9H2KZ0MyL+cC5Qeip9Y+Qeo
+    lMH06tXfwt2g96vXrKIgQ=
+    -----END SSH SIGNATURE-----
+  created_at: 2026-06-16T05:21:48Z
