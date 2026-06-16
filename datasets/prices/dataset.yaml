@@ -1,0 +1,19 @@
+version: 1
+dataset:
+  uuid: "0f1e2d3c-4b5a-4678-9abc-202606160001"
+  name: "prices"
+  owner: "madhavajay"
+  description: ""
+  created_at: "2026-06-16T04:55:15Z"
+  variants:
+    mock:
+      tier: "mock"
+      relative_path: "mock/prices-mock.csv"
+      file_name: "prices-mock.csv"
+      mime_type: "text/csv"
+      bytes: 56
+      sha256: "e227a5837028adee4be2aa2b452210a0abdf25ecdbae7642a0a729abb4db373b"
+    real:
+      tier: "real"
+      availability: "private"
+      staged_under_user_folder: true
