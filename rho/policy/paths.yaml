@@ -1,0 +1,7 @@
+version: 1
+paths:
+  repo_root: rho://repo/
+  rho_root: rho://repo/rho/
+  workspace: rho://repo/workspace/
+  requests: rho://repo/rho/requests/
+  control_outbox: rho://repo/rho/control/outbox/

@@ -1,0 +1,7 @@
+version: 1
+crypto:
+  signatures: ssh
+  encryption: x25519-recipient-envelope
+  encrypted_envelopes: explicit
+  transparent_git_filters: enabled
+  filter: rho-crypt

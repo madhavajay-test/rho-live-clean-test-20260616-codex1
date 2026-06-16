@@ -1,0 +1,4 @@
+version: 1
+auth:
+  identity_proof: github-profile-fragment-claim
+  trust: local

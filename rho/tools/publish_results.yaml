@@ -1,0 +1,6 @@
+version: 1
+tool:
+  id: publish_results
+  action_type: release_results
+  owner: rho://id/github/madhavajay
+  approval_required: true

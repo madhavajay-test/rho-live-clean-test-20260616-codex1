@@ -1,0 +1,16 @@
+version: 1
+signature:
+  signed_path: /Users/madhavajay/rho/madhavajay/projects/rho-live-clean-test-20260616-codex1/rho/policy/revocations.yaml
+  signed_sha256: 2b269afec7ad4a347b492907bd6ab4fd6c179238d0bb1bc08a7cfd95b0c583fd
+  signer: rho://id/github/madhavajay
+  key_id: rho://key/github/madhavajay/ssh-ed25519-1
+  algorithm: ssh-ed25519
+  namespace: rho
+  signature: |
+    -----BEGIN SSH SIGNATURE-----
+    U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg8YgzlojPThgVlNS841EUATNtCL
+    0eMhc9IQa3gOyVlUAAAAADcmhvAAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5
+    AAAAQKhnh/wuBi0FEWc2QYKGYKRgclYwFwBmhe4jmYR3RobOjLBn4W9jG5qGTMIdZBtJfI
+    MKiDO5J8kfVLn0oDaMngk=
+    -----END SSH SIGNATURE-----
+  created_at: 2026-06-16T04:06:56Z

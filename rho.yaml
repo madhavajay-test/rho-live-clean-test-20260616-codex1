@@ -1,0 +1,20 @@
+rho: 1
+project:
+  id: "rho://repo/github/madhavajay/rho-live-clean-test-20260616-codex1"
+  owner: "rho://id/github/madhavajay"
+transport:
+  kind: git
+members:
+  file: rho/membership.yaml
+participants:
+  path: rho/participants/
+permissions:
+  file: rho/policy/permissions.yaml
+crypto:
+  file: rho/policy/crypto.yaml
+auth:
+  file: rho/policy/auth.yaml
+tools:
+  path: rho/tools/
+resources:
+  file: rho/resources.yaml

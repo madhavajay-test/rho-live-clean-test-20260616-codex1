@@ -1,0 +1,25 @@
+version: 1
+identity:
+  id: rho://id/github/madhavajay
+  kind: github
+  handle: madhavajay
+  display_name: madhavajay
+  public_keys:
+  - id: rho://key/github/madhavajay/ssh-ed25519-1
+    kind: ssh-signing
+    algorithm: ssh-ed25519
+    public_key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPGIM5aIz04YFZTUvONRFAEzbQi9HjIXPSEGt4DslZVA rho://id/github/madhavajay
+    fingerprint: SHA256:JqiH1khE9j7+InlOGqx2ZBD1K1Q0akFPO2YyKxUqioc
+    created_at: 2026-06-15T04:37:04Z
+  - id: rho://key/github/madhavajay/x25519-1
+    kind: x25519-encryption
+    algorithm: x25519
+    public_key: uMxXQeEz7qqHjNI9IV52ZUeYy9YNLmSmQ/OhH1LGDzs=
+    fingerprint: 9152ac8c8289cbdbf146237347c396a5f9cf31786094e32e6947e77a061481e5
+    created_at: 2026-06-15T04:37:04Z
+  proofs:
+  - kind: github-profile-fragment-claim
+    provider_url: https://github.com/madhavajay
+    claim: rho.claim/id/github/madhavajay/key/ssh-ed25519/sha256-JqiH1khE9j7-InlOGqx2ZBD1K1Q0akFPO2YyKxUqioc
+    proof_url: https://github.com/madhavajay#rho.claim/id/github/madhavajay/key/ssh-ed25519/sha256-JqiH1khE9j7-InlOGqx2ZBD1K1Q0akFPO2YyKxUqioc
+  created_at: 2026-06-15T04:37:04Z

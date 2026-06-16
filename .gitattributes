@@ -1,0 +1,9 @@
+*.rhoenc binary
+*.rhosig.yaml text
+rho/participants/*.yaml text
+rho/requests/*.yaml text
+
+# >>> rho generated encrypted path filters >>>
+# Generated from rho/policy/permissions.yaml; run `rho repo install-filters` after policy edits.
+rho/messages/inbox/id/github/madhavajay/** filter=rho-crypt diff=rho-crypt
+# <<< rho generated encrypted path filters <<<

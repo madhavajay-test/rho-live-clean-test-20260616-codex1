@@ -1,0 +1,10 @@
+version: 1
+tool:
+  id: run_real
+  action_type: run_real_data
+  owner: rho://id/github/madhavajay
+  approval_required: true
+  command_template:
+  - python3
+  - CODE_PATH
+  - DATASET_CSV

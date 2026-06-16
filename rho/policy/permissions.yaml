@@ -1,0 +1,10 @@
+version: 1
+permissions:
+  - id: "permrho_messages_inbox_id_github_madhavajay"
+    pattern: "rho/messages/inbox/id/github/madhavajay/**"
+    write:
+      allowed:
+        - "members"
+    read:
+      encrypted_to:
+        - "rho://id/github/madhavajay"
