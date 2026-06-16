@@ -8,3 +8,11 @@ permissions:
     read:
       encrypted_to:
         - "rho://id/github/madhavajay"
+  - id: "permrho_messages_inbox_id_github_madhavajay_test"
+    pattern: "rho/messages/inbox/id/github/madhavajay-test/**"
+    write:
+      allowed:
+        - "members"
+    read:
+      encrypted_to:
+        - "rho://id/github/madhavajay-test"
